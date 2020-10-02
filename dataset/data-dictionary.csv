@@ -1,7 +1,7 @@
 FIELD;DESCRIPTION;REFERENCE;UNIT;SOURCE;
 CITY;Name of the City;;;-;
 STATE;Name of the State;;;-;
-MACROREGION;Name of the Macroregion;;;;
+MACROREGION;Name of the Macroregion;2019;;https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101652;"1 - Norte; 2 - Nordeste; 3 - Sudeste; 4 - Sul; e 5 – Centro-Oeste"
 CAPITAL;1 if Capital of State;;;-;
 CITY_HALL_URL;URL of the city hall from city;;;;
 IBGE_CITY_ID;Identification number of the city for IBGE;;;;
